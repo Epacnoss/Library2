@@ -1,0 +1,1 @@
+String[] fileNames = {"anglesOfAttack.cfg", "chainsOfCommand.cfg", "fieldsOfFire.cfg", "linesOfDeparture.cfg", "pointsOfImpact.cfg", "termsOfEnlistment.cfg"};
